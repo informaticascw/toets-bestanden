@@ -1,21 +1,10 @@
-Files for database exams
+# Files for database exams
 
-https://sqliteonline.com/
+## Chinook database
+Online sqlite preloaded with database
+- Start loading Chinook database<br>
+  https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/informaticascw/toets-bestanden/refs/heads/main/sql/Chinook_Sqlite.sqlite
 
-
-https://www.sqlitetutorial.net/sqlite-sample-database/
-
-
-https://www.sqlite.org/
-
-
-https://github.com/lerocha/chinook-database
-
-# Online sqlite database
-Start loading Chinook database
-- https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/informaticascw/toets-bestanden/refs/heads/main/sql/Chinook_Sqlite.sqlite
-
-# Chinook database
 Sqlite database
 - File Chinook_Sqlite.sqlite
 - File Chinook_Sqlite.sql
@@ -27,3 +16,8 @@ ERD diagram and description of tables
 - File Chinook-description.txt
 - Date 2024-11-24
 - Source https://www.sqlitetutorial.net/sqlite-sample-database/
+
+Bijlage bij toetsvragen voor leerlingen (Dutch language)
+- File Chinook-info-NL.docx
+- File Chinook-info-NL.pdf
+
