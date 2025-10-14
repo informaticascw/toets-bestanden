@@ -11,13 +11,15 @@ Sqlite database
 - Date 2024-11-24
 - Source https://github.com/lerocha/chinook-database/releases/tag/v1.4.5
 
-ERD diagram and description of tables
-- File Chinook-ERD.png 
-- File Chinook-description.txt
-- Date 2024-11-24
-- Source https://www.sqlitetutorial.net/sqlite-sample-database/
+ERD and description of database
+- ChinookERD.drawio
+- ChinookERD.png
+- Date 2025-11-24
+- Source inspired on https://www.sqlitetutorial.net/sqlite-sample-database/ 2024-11-24
 
 Bijlage bij toetsvragen voor leerlingen (Dutch language)
 - File Chinook-info-NL.docx
 - File Chinook-info-NL.pdf
-
+- SQL_cheatsheet.docx
+- SQL_cheatsheet.pdf
+- Date 2025-11-24
