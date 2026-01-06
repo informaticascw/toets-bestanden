@@ -7,5 +7,6 @@ https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/informaticas
 
 https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/informaticascw/toets-bestanden/refs/heads/main/netlogo/turtles-die-op-elkaar-reageren.nlogox
 
-
 https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/informaticascw/toets-bestanden/refs/heads/main/netlogo/patches-maken.nlogox
+
+https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/informaticascw/toets-bestanden/refs/heads/main/netlogo/patches-maken-op-conditie.nlogox
