@@ -2,7 +2,7 @@
 <model version="NetLogo 7.0.0-beta0" snapToGrid="false">
   <code></code>
   <widgets>
-    <view x="10" wrappingAllowedX="true" y="155" frameRate="30" minPycor="-5" height="295" showTickCounter="true" patchSize="26" fontSize="10" wrappingAllowedY="true" width="294" tickCounterLabel="ticks" maxPycor="5" updateMode="0" maxPxcor="5" minPxcor="-5"></view>
+    <view x="10" wrappingAllowedX="false" y="155" frameRate="30" minPycor="-5" height="295" showTickCounter="true" patchSize="26" fontSize="10" wrappingAllowedY="false" width="294" tickCounterLabel="ticks" maxPycor="5" updateMode="0" maxPxcor="5" minPxcor="-5"></view>
     <button x="15" y="20" height="50" disableUntilTicks="false" forever="false" kind="Observer" width="120" display="setup">setup</button>
     <slider x="15" step="" y="90" max="" width="250" display="grens" height="50" min="" direction="Horizontal" default="0" variable="grens"></slider>
   </widgets>
